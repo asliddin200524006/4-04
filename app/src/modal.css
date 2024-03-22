@@ -1,0 +1,28 @@
+.container {
+    width: 100%;
+    flex-wrap: wrap;
+
+}
+
+.col {
+    width: 300px;
+    height: 4   50px;
+    background-color: gold;
+    border: 1px solid grey;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+
+.col img {
+    border-radius: 10px;
+    width: 250px;
+    margin-left: 25px;
+}
+
+.col p,
+h4 {
+    margin-left: 25px;
+}
+span{
+    font-size: 40px;
+}
